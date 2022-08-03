@@ -33,10 +33,10 @@ github地址：
 对于常见的危险函数进行记录，记录的内容包括函数名称，函数调用地址并高亮显示，以及调用的参数，并且将相关参数的注释写到汇编代码中，如果不想覆盖原注释，可以到源码中去修改设置注释函数的flag为1。
 
 arm架构下。
-![](https://github.com/The-Itach1/Audit/image/)
+![](https://github.com/The-Itach1/Audit/blob/master/image/Snipaste_2022-08-03_22-24-55.png)
 
 mips架构如下。
-![]()
+![](https://github.com/The-Itach1/Audit/blob/master/image/Snipaste_2022-08-03_22-41-50.png)
 
 ## 使用 ##
 - 依赖 `prettytable`，`pip3 install prettytable --target="D:\xxxx\IDA 7.5\python\3"`
