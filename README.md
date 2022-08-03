@@ -17,7 +17,7 @@ github地址：
 - MipsAudit.py	支持mips的审计脚本
 - A_M_Audit.py	我为了方便将其整合到了一个脚本里面。
 
-然后example文件夹装的是我在开发时使用的两个样本程序，一个arm，一个mips。
+然后example文件夹装的是我在开发时使用的两个样本程序，一个arm，一个mips，分别来自于Tenda AX1806的US_AX1806V2.0br_v1.0.0.1_cn_2990_ZGDX01_2.bin和Tenda AC9的US_AC9V3.0RTL_V15.03.06.42_multi_TD01.bin
 
 支持ida7.5，ida7.6。
 
